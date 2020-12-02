@@ -17,4 +17,4 @@
 * [x] Spin up our server on port 3000 with app.listen
 * [x] Run server with nodemon
 
-
+![Phase 1 Complete](phase1.PNG)
