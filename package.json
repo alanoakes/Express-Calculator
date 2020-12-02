@@ -1,8 +1,8 @@
 {
   "name": "Express-Calculator",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Simple Calculator Web App with Express",
+  "main": "calculator.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
