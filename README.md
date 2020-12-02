@@ -18,3 +18,7 @@
 * [x] Run server with nodemon
 
 ![Phase 1 Complete](phase1.PNG)
+
+## Responding to Requests with HTML Files <a name="02"></a>
+
+
