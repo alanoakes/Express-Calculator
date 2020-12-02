@@ -28,4 +28,7 @@
 
 ![Phase 2 Up](phase2.PNG)
 
+## Processing Post Requests with Body Parser <a name="03"></a>
 
+* [x] test form in web network gui
+* [x] add post method in calculator.js
