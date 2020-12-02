@@ -21,4 +21,6 @@
 
 ## Responding to Requests with HTML Files <a name="02"></a>
 
-
+* [x] touch index.html
+* [x] make form with 2 inputs and button
+* [ ] 
