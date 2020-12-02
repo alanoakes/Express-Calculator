@@ -10,7 +10,7 @@ app.get('/', (req, res) => {
 	res.sendFile(__dirname + '/index.html')
 });
 
-app.post('/', (req, res) => {
+app.post('/Express-Calculator/' ,(req, res) => {
 	// bodyParser lets you grab post data
 
 	// make calculator
