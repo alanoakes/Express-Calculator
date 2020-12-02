@@ -32,5 +32,8 @@
 
 * [x] test form in web network gui
 * [x] add post method in calculator.js
-* [ ] install and add body-parser for data gathering
-* [ ] 
+* [x] install and add body-parser for data gathering
+* [x] test data gathering from form
+
+![Phase 3 Up](phase3.PNG)
+

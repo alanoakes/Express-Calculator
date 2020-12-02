@@ -11,8 +11,15 @@ app.get('/', (req, res) => {
 });
 
 app.post('/', (req, res) => {
-	console.log(req.body); // bodyParser lets you grab post data
-	res.send('Thanks for posting that!');
+	// bodyParser lets you grab post data
+
+	// make calculator
+	var num1 = Number(req.body.num1);
+	var num2 = Number(req.body.num2);
+	var result = num1 + num2;
+
+	console.log('num1: ' + req.body.num1 + '; num2: ' + req.body.num2 + '; result: ' + result); 
+	res.send('The result of your calculation is: ' + result);
 });
 
 app.listen(port, () => {
