@@ -32,3 +32,5 @@
 
 * [x] test form in web network gui
 * [x] add post method in calculator.js
+* [ ] install and add body-parser for data gathering
+* [ ] 
