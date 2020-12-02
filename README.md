@@ -23,4 +23,9 @@
 
 * [x] touch index.html
 * [x] make form with 2 inputs and button
-* [ ] 
+* [x] include html in calculator.js with res send file
+* [x] load calculator app with html
+
+![Phase 2 Up](phase2.PNG)
+
+
