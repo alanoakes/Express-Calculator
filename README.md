@@ -15,6 +15,6 @@
 * [x] Create a root route get method with app.get()
 * [x] Send the words Hello World from the root route as the response
 * [x] Spin up our server on port 3000 with app.listen
-* [ ] Run server with nodemon
+* [x] Run server with nodemon
 
 
